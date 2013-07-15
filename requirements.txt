@@ -11,18 +11,12 @@ census==0.5
 certifi==0.0.8
 chardet==2.1.1
 distribute==0.6.19
-geopy==0.95.1
 git-remote-helpers==0.1.0
-googlemaps==1.0.2
 heroku==0.1.2
 httplib2==0.8
 ipython==0.11
 itsdangerous==0.22
 jellyfish==0.2.0
-lxml==3.1.0
-matplotlib==1.1.1
-mechanize==0.2.5
-numpy==1.6.1
 oauth2==1.5.211
 oauthlib==0.4.0
 pycrypto==2.5
@@ -32,7 +26,6 @@ requests-oauthlib==0.3.1
 scipy==0.10.1
 simplejson==3.3.0
 suds==0.4
-twython==2.9.1
 us==0.7
 virtualenv==1.6.4
 virtualenvwrapper==2.10.1
