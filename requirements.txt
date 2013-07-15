@@ -2,7 +2,6 @@ BeautifulSoup==3.2.1
 Flask==0.10.1
 IMAPClient==0.9.1
 Jinja2==2.6
-MACS2==2.0.10.09132012
 Pygments==1.5
 Werkzeug==0.9.1
 beautifulsoup4==4.2.1
